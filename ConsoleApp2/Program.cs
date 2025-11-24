@@ -89,6 +89,7 @@
                                 if (nevdarab.Substring(1) != nevdarab.Substring(1).ToLower())
                                     jo = false;
                             }
+
                             if (jo)
                                 Console.WriteLine($"{sorszam++}: {nev}");
                         }
