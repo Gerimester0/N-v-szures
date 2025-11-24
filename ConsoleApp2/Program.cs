@@ -59,6 +59,7 @@
                             if (char.IsUpper(nevek[0]))
                                 Console.WriteLine($"{sorszam++}. {nevek}");
                         }
+
                         break;
                     case "4":
                         Console.Clear();
