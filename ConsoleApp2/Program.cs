@@ -1,11 +1,25 @@
 ﻿using System;
+using System.ComponentModel;
 
 namespace MyApp
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
+
+            List<string> lista = new List<string>();
+            lista.Add("Deak Csaba");
+            lista.Add("Kiss István József");
+            lista.Add("Nagy István Elemér");
+            lista.Add("Farkas1 Aladár");
+            lista.Add("Pető@Ilona.hu");
+            lista.Add("Pisti");
+            lista.Add("12Elemér");
+            lista.Add("SzekeresKata");
+
+
             while (true) 
             {
                 Console.Clear();
