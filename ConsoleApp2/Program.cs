@@ -51,6 +51,7 @@
 
                         break;
 
+
                     case "3":
                         Console.Clear();
                         sorszam = 0;
